@@ -46,3 +46,5 @@ urlpatterns = [
     path('api/', include(router.urls)),
 ]
 ```
+
+import 'bootstrap/dist/css/bootstrap.min.css';
